@@ -109,5 +109,5 @@ for x in Instagram.followingList:
         print(x)
         sayac += 1
 
-print("**************")
+print("**************") 
 print(f"{str(sayac)} kişi sizi takip etmiyor")
